@@ -36,7 +36,7 @@
         }
 
         .todo {
-            background : skyblue;
+            /* background : skyblue; */
             padding : 10px;
             border-radius : 4px;
         }
